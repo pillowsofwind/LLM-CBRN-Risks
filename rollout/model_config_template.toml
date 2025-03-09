@@ -1,0 +1,37 @@
+[models]
+
+# Azure OpenAI Service models
+[models.gpt-4o]
+type = "azure"
+endpoint = ""
+api_key= ""
+api_version = "2024-10-21"
+model_name = "gpt-4o"
+temperature = 0.9
+max_tokens = 4096
+
+[models.gpt-4o-mini]
+type = "azure"
+endpoint = ""
+api_key= ""
+api_version = "2024-10-21"
+model_name = "gpt-4o-mini"
+temperature = 0.9
+max_tokens = 4096
+
+
+# Anthropic models, Claude-3.5-Sonnet for example
+[models.Claude-3.5-Sonnet]
+type = "anthropic"
+api_key = ""
+model_name = "claude-3-5-sonnet-20241022"
+max_tokens = 4096
+
+# OpenAI-compatible models, DeepSeek R1 for example
+[models.DeepSeek-R1]
+type = "openai"
+base_url = "https://api.deepsk.ai/v1"
+api_key = ""
+model_name = "DeepSeek-R1"
+temperature = 0.9
+max_tokens = 4096
