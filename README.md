@@ -1,8 +1,8 @@
 # LLM-CBRN-Risks
 
-Please visit [our project page](https://llm-catastrophic-risks.github.io/) for a better overview of our research.
+📢Please visit [our project page](https://llm-catastrophic-risks.github.io/) for a better overview of our research.
 
-Full paper is available at [arXiv](https://arxiv.org/abs/2502.11355).
+📔Full paper is available at [arXiv](https://arxiv.org/abs/2502.11355).
 
 ## Getting Started
 
@@ -189,13 +189,10 @@ The deception analysis script categorizes agent responses into four main types:
 ## Citation
 
 ```bib
-@misc{xu2025nucleardeployedanalyzingcatastrophic,
-      title={"Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents}, 
-      author={Rongwu Xu and Xiaojian Li and Shuo Chen and Wei Xu}, 
-      year={2025}, 
-      eprint={2502.11355}, 
-      archivePrefix={arXiv}, 
-      primaryClass={cs.CL}, 
-      url={https://arxiv.org/abs/2502.11355}, 
-    }
+@article{xu2025nuclear,
+  title={" Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents},
+  author={Xu, Rongwu and Li, Xiaojian and Chen, Shuo and Xu, Wei},
+  journal={arXiv preprint arXiv:2502.11355},
+  year={2025}
+}
 ```
