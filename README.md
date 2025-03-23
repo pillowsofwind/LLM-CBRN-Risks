@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-This repository contains code to reproduce experiments from our paper "Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents.
+This repository contains code to reproduce experiments from our paper "Nuclear Deployed: Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents".
 
 ### Installation
 
