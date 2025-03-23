@@ -190,7 +190,7 @@ The deception analysis script categorizes agent responses into four main types:
 
 ```bib
 @article{xu2025nuclear,
-  title={" Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents},
+  title={Nuclear Deployed: Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents},
   author={Xu, Rongwu and Li, Xiaojian and Chen, Shuo and Xu, Wei},
   journal={arXiv preprint arXiv:2502.11355},
   year={2025}
