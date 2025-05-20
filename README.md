@@ -1,6 +1,6 @@
 # LLM-CBRN-Risks
 
-🆕Our paper is accepted to ACL 2025 Findings paper.
+🆕Our paper is accepted to ACL 2025 Findings.
 
 📢Please visit [our project page](https://llm-catastrophic-risks.github.io/) for a better overview of our research.
 
